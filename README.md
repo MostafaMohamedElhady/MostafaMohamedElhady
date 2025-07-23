@@ -39,4 +39,3 @@
 
 ## Vector Graphics Editors
 <a href="https://inkscape.org/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/R.53ceff75815bf6b26c8289731007b000?rik=Wgc%2fvSQ6ZR9Zbw&riu=http%3a%2f%2f1.bp.blogspot.com%2f-gJrWiRAPqMk%2fVd8kgZdMTVI%2fAAAAAAAAAkA%2fDTUEYIr-e00%2fs1600%2finkscape_logo.png&ehk=DLi6miDs8TDkO72CuYsbQtfawAvP%2ffvFU726yD%2bjNLo%3d&risl=&pid=ImgRaw&r=0" alt="Inkscape" width="80" height="100"/> </a>
-2fs1600%2finkscape_logo.png&ehk=DLi6miDs8TDkO72CuYsbQtfawAvP%2ffvFU726yD%2bjNLo%3d&risl=&pid=ImgRaw&r=0" alt="Inkscape" width="80" height="100"/> </a>
